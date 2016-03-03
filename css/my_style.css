@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+/* --- teacher -----*/
+.my-nav-fix-top{
+			background:#348017;
+			
+		}
+		.my-li{
+			color:#FFF;
+		}
+		.teacher-content{
+			border:#CCC solid thin;
+			border-radius:2px;
+			padding-top:20px;
+			padding-bottom:20px;
+			margin-bottom:30px;
+		}
+
+.my-position-fix{
+	position: fixed;
+	position: fixed;
+	height: 100%;
+	overflow-y: auto;
+	z-index: 1000;
+}
